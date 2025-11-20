@@ -3,7 +3,8 @@ the rainbow
 purple
 pink 
 orange
-blue
+blue 
+green
 red
 
 this are the color of my rainbow.
